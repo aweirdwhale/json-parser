@@ -1,5 +1,5 @@
 <div>
-    <img src="./Banner.png" />
+    <img src="./Banner.png" style={width=100%}/>
 </div>
 
 (Readme work in progress)
